@@ -65,7 +65,7 @@ Feel free to contribute to the project by creating issues or pull requests. Your
 
 ## Author
 
-Ashmit Shukla
+Reeti Sahu
 
 ## Acknowledgements
 
